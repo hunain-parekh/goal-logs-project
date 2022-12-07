@@ -1,7 +1,8 @@
 import * as React from 'react';
+import './Header.css';
 function Header(){
     return (
-        <nav>
+        <nav className='nav'>
             <h1>Don Quixote</h1>
         </nav>
     );
