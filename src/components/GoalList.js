@@ -8,7 +8,7 @@ import FifthGoal from './goals/fifth-goal';
 function GoalList(){
     return(
         <>
-        <h1>My Goals For This Book:</h1>
+            <h1>My Goals For This Book:</h1>
             <ul>
             <FirstGoal/>
             <SecondGoal/>
